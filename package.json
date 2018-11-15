@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/huuhung11299/hung/issues"
   },
-  "homepage": "https://github.com/huuhung11299/hung#readme"
+  "homepage": "https://github.com/huuhung11299/hung#readme",
+  "dependencies": {
+    "sass": "^1.15.0"
+  }
 }
