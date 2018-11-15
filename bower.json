@@ -1,0 +1,20 @@
+{
+  "name": "hung",
+  "description": "webhai",
+  "main": "index.js",
+  "authors": [
+    "Taone"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/huuhung11299/hung",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
